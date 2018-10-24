@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\archaneaa\desktop\gibbs\gibbs\main.cpp(133): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\archaneaa\desktop\gibbs\gibbs\main.cpp(151): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+  Gibbs.vcxproj -> C:\Users\Archaneaa\Desktop\Gibbs\Debug\Gibbs.exe
