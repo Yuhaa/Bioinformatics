@@ -1,0 +1,6 @@
+matches: 4
+mismatches: 0
+gaps: 4
+score: 0
+G---AAGA
+GTTTAAG-

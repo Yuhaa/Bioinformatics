@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\archaneaa\desktop\alignment\alignment\main.cpp(52): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\archaneaa\desktop\alignment\alignment\main.cpp(58): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\archaneaa\desktop\alignment\alignment\main.cpp(59): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\archaneaa\desktop\alignment\alignment\main.cpp(64): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\archaneaa\desktop\alignment\alignment\main.cpp(68): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\archaneaa\desktop\alignment\alignment\main.cpp(80): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\archaneaa\desktop\alignment\alignment\main.cpp(81): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\archaneaa\desktop\alignment\alignment\main.cpp(95): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\archaneaa\desktop\alignment\alignment\main.cpp(96): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\archaneaa\desktop\alignment\alignment\main.cpp(110): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\archaneaa\desktop\alignment\alignment\main.cpp(129): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Alignment.vcxproj -> C:\Users\Archaneaa\Desktop\Alignment\Debug\Alignment.exe
